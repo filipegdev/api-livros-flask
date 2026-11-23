@@ -23,8 +23,6 @@ Desenvolver uma aplicação web que consome uma API criada com Python e Flask, p
 - CSS
 
 ## Estrutura do projeto
-
-```text
 api-livros/
 ├── app.py
 ├── requirements.txt
@@ -32,10 +30,15 @@ api-livros/
 ├── .gitignore
 └── frontend/
     ├── package.json
+    ├── package-lock.json
+    ├── index.html
     ├── vite.config.js
+    ├── eslint.config.js
+    ├── public/
     └── src/
         ├── App.jsx
         ├── App.css
+        ├── index.css
         └── main.jsx
 ```
 
