@@ -22,7 +22,10 @@ Desenvolver uma aplicação web que consome uma API criada com Python e Flask, p
 - Vite
 - CSS
 
+
 ## Estrutura do projeto
+
+```text
 api-livros/
 ├── app.py
 ├── requirements.txt
